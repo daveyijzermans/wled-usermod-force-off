@@ -1,5 +1,5 @@
 {
-  "name": "wled-usermod-example",
+  "name": "wled-usermod-force-off",
   "build": {
     "libArchive": false
   },
